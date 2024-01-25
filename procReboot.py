@@ -51,7 +51,7 @@ def runProcess(path, name):
 
 if __name__ == '__main__':
     try:
-        passed_arg = sys.argv[10]
+        passed_arg = sys.argv[1]
     except IndexError:
         passed_arg = ''
 
