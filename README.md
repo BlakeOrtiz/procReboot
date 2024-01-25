@@ -4,7 +4,7 @@ Simple process monitor and rebooter. Mainly using this for hosted servers that d
 
 ## Usage:
 Main functionality is only added for Windows systems (May make it cross-OS supported in the future)
-`py procReboot.py <Insert Path with executable>`
+`py procReboot.py "<Insert Path with executable>"`
 
 OR
 
